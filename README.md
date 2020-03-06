@@ -20,6 +20,12 @@
 - [Tree-Shaking without a Bundler? Here's how Snowpack Does It!](https://dev.to/pika/tree-shaking-without-a-bundler-here-s-how-snowpack-does-it-1fai)
 - [@Pika/web Frees Modern Web Development from the Complexity of Package Building](https://www.infoq.com/news/2019/06/pika-web-no-npm-bundler/)
 - [Building without bundling: How to do more with less](https://blog.logrocket.com/building-without-bundling/)
+- [CSSTricks: Snowpack](https://css-tricks.com/snowpack/)
+- [My first experience of using Snowpack](https://blog.atrera.com/javascript/2020/01/10/my-first-experience-of-using-snowpack.html)
+- [HackerNews: Snowpack: Build a web application without a bundler](https://news.ycombinator.com/item?id=21989967)
+- [Snowpack Releases 1.0](https://www.infoq.com/news/2020/01/snowpack-pika-bundler-devops/)
+- [Snowpack with React by Ryan Lanciaux](http://ryanlanciaux.com/blog/2020/01/14/snowpack-with-react/)
+- [In 2020, go bundler free](https://medium.com/@dmnsgn/in-2020-go-bundler-free-eb29c1f05fc9)
 
 
 ## Talks/Videos
