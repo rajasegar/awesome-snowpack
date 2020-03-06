@@ -4,6 +4,12 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
+<p align="center">
+  <img alt="Logo" src="https://www.snowpack.dev/img/logo.png" height="240">
+</p>
+
+Snowpack is a post-install tool. It runs after npm install, and it essentially exists to convert your npm packages (in your `node_modules/` directory) into JS files that run in the browser without a bundler (written to a `web_modules/` directory).
+
 ## Official
 - [Website](https://www.snowpack.dev/)
 - [Github](https://github.com/pikapkg/snowpack)
