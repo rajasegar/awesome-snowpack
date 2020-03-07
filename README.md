@@ -20,7 +20,7 @@ Snowpack is a post-install tool. It runs after npm install, and it essentially e
 
 ## Official
 - [Website](https://www.snowpack.dev/)
-- [Github](https://github.com/pikapkg/snowpack)
+- [GitHub](https://github.com/pikapkg/snowpack)
 - [Forum](https://www.pika.dev/packages/snowpack/discuss)
 
 ## Related Projects
