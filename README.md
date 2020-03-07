@@ -1,14 +1,22 @@
-# Awesome Snowpack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Snowpack [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Snowpack resources
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 <p align="center">
   <img alt="Logo" src="https://www.snowpack.dev/img/logo.png" height="240">
 </p>
 
 Snowpack is a post-install tool. It runs after npm install, and it essentially exists to convert your npm packages (in your `node_modules/` directory) into JS files that run in the browser without a bundler (written to a `web_modules/` directory).
+
+## Contents
+- [Official](#official)
+- [Related Projects](#related-projects)
+- [Articles](#articles)
+- [Talks/Videos](#talksvideos)
+- [Podcasts](#podcasts)
+- [Miscellaneous](#miscellaneous)
+- [Twitter](#twitter)
 
 ## Official
 - [Website](https://www.snowpack.dev/)
@@ -41,7 +49,7 @@ Snowpack is a post-install tool. It runs after npm install, and it essentially e
 
 ## Podcasts
 
-### Miscellaneous 
+## Miscellaneous 
 
 
 ## Twitter
