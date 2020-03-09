@@ -14,6 +14,7 @@ Snowpack is a post-install tool. It runs after npm install, and it essentially e
 - [Related Projects](#related-projects)
 - [Articles](#articles)
 - [Talks/Videos](#talksvideos)
+- [Examples](#examples)
 - [Podcasts](#podcasts)
 - [Miscellaneous](#miscellaneous)
 - [Twitter](#twitter)
@@ -46,6 +47,24 @@ Snowpack is a post-install tool. It runs after npm install, and it essentially e
 - [DinosaurJS 2019: Pika: Reimagining the Registry by Fred K. Schott](https://www.youtube.com/watch?v=2Wwx-lF5NhE)
 - [Pika Web: a new way to build Web Applications. Now renamed to Snowpack!](https://www.youtube.com/watch?v=bCsS-M4a1rg)
 - [Snowpack with React: An awesome way to build web applications](https://www.youtube.com/watch?v=pUUAil_9yIw)
+
+## Examples
+- A basic, three-dependency project: [[Source]](https://glitch.com/edit/#!/pika-web-example-simple) [[Live Demo]](https://pika-web-example-simple.glitch.me/)
+- To-do app with server-side render (Preact + HTM + Express): [[Source]](https://github.com/beejunk/universal-pika-example) [[Live Demo]](https://safe-everglades-56846.herokuapp.com/)
+- Terminal Homepage (Preact + Typescript + Babel): [[Source]](https://github.com/ndom91/terminal-homepage) [[Live Demo]](https://termy.netlify.com)
+- Electron (using Three.js): [[Source]](https://github.com/br3tt/electron-three)
+- TypeScript (using Preact): [[Source]](https://glitch.com/edit/#!/pika-web-ts-preact) [[Live Demo]](https://pika-web-ts-preact.glitch.me/)
+- Vue (using httpVueLoader): [[Source]](https://glitch.com/edit/#!/pika-web-vue-httpvueloader) [[Live Demo]](https://pika-web-vue-httpvueloader.glitch.me/) [By: [@thiagoabreu](https://github.com/thiagoabreu)]
+- Vue (using JSX): [[Source]](https://gitlab.com/unclejustin/snowpack-vue) [[Live Demo]](https://snowpack-vue.netlify.com/) [By: [@unclejustin](https://gitlab.com/unclejustin)]
+- PWA-Starter-Kit (lit-html + Redux): [[Source]](https://github.com/Polymer/pwa-starter-kit/issues/339)
+- LitElement + lit-html PWA: [[Source]](https://github.com/thepassle/reddit-pwa) [[Live Demo]](https://angry-turing-4769b3.netlify.com/)
+- [Heresy](https://github.com/WebReflection/heresy) and [LighterHTML](https://github.com/WebReflection/lighterhtml): [[Source]](https://github.com/AhnafCodes/SAltEnv/)
+- Hyperapp and JSX (using Babel): [[Source]](https://github.com/Monchi/snowpack-hyperapp) [[Live Demo]](https://snowpack-hyperapp.netlify.com/)
+- React PWA Starter (React + Styled components + Workbox): [[Source]](https://github.com/matthoffner/es-react-pwa) [[Live Demo]](https://es-react-pwa.netlify.com/)
+- Preact, JSX, Fragment, Router, CSS Grid, Typescript, Babel: [[Source]](https://github.com/crra/snowpack-doodle)
+- React, JSX, Material-UI and super basic routing: [[Source]](https://github.com/jmetev1/snowpackJSXreact)
+- A basic svelte setup powered by svelvet: [[Source]](https://github.com/jakedeichert/svelvet)
+- React Component Library w/Storybook! (React, Typescript, Material-UI): [[Source]](https://github.com/snikas/React-Component-Library)
 
 ## Podcasts
 
