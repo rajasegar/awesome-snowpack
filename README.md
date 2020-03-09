@@ -15,6 +15,7 @@ Snowpack is a post-install tool. It runs after npm install, and it essentially e
 - [Articles](#articles)
 - [Talks/Videos](#talksvideos)
 - [Examples](#examples)
+- [Tooling](#tooling)
 - [Podcasts](#podcasts)
 - [Miscellaneous](#miscellaneous)
 - [Twitter](#twitter)
@@ -58,13 +59,17 @@ Snowpack is a post-install tool. It runs after npm install, and it essentially e
 - Vue (using JSX): [[Source]](https://gitlab.com/unclejustin/snowpack-vue) [[Live Demo]](https://snowpack-vue.netlify.com/) [By: [@unclejustin](https://gitlab.com/unclejustin)]
 - PWA-Starter-Kit (lit-html + Redux): [[Source]](https://github.com/Polymer/pwa-starter-kit/issues/339)
 - LitElement + lit-html PWA: [[Source]](https://github.com/thepassle/reddit-pwa) [[Live Demo]](https://angry-turing-4769b3.netlify.com/)
-- [Heresy](https://github.com/WebReflection/heresy) and [LighterHTML](https://github.com/WebReflection/lighterhtml): [[Source]](https://github.com/AhnafCodes/SAltEnv/)
+- [Heresy](https://github.com/WebReflection/heresy) 
+- [LighterHTML](https://github.com/WebReflection/lighterhtml) - [[Source]](https://github.com/AhnafCodes/SAltEnv/)
 - Hyperapp and JSX (using Babel): [[Source]](https://github.com/Monchi/snowpack-hyperapp) [[Live Demo]](https://snowpack-hyperapp.netlify.com/)
 - React PWA Starter (React + Styled components + Workbox): [[Source]](https://github.com/matthoffner/es-react-pwa) [[Live Demo]](https://es-react-pwa.netlify.com/)
 - Preact, JSX, Fragment, Router, CSS Grid, Typescript, Babel: [[Source]](https://github.com/crra/snowpack-doodle)
 - React, JSX, Material-UI and super basic routing: [[Source]](https://github.com/jmetev1/snowpackJSXreact)
 - A basic svelte setup powered by svelvet: [[Source]](https://github.com/jakedeichert/svelvet)
 - React Component Library w/Storybook! (React, Typescript, Material-UI): [[Source]](https://github.com/snikas/React-Component-Library)
+
+## Tooling
+- [snowpack-init](https://github.com/pikapkg/snowpack-init) - Create a bundler-free Snowpack app with a single command. 
 
 ## Podcasts
 
