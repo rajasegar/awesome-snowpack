@@ -48,6 +48,7 @@ Snowpack is a post-install tool. It runs after npm install, and it essentially e
 - [DinosaurJS 2019: Pika: Reimagining the Registry by Fred K. Schott](https://www.youtube.com/watch?v=2Wwx-lF5NhE)
 - [Pika Web: a new way to build Web Applications. Now renamed to Snowpack!](https://www.youtube.com/watch?v=bCsS-M4a1rg)
 - [Snowpack with React: An awesome way to build web applications](https://www.youtube.com/watch?v=pUUAil_9yIw)
+- [@pika/web and a brief history of ES modules && Composition, Context (API), & Prop Drilling](https://www.youtube.com/watch?v=Sn2e62CZ41g)
 
 ## Examples
 - A basic, three-dependency project: [[Source]](https://glitch.com/edit/#!/pika-web-example-simple) [[Live Demo]](https://pika-web-example-simple.glitch.me/)
