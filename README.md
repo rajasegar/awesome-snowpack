@@ -42,6 +42,7 @@ Snowpack is a post-install tool. It runs after npm install, and it essentially e
 - [Snowpack Releases 1.0](https://www.infoq.com/news/2020/01/snowpack-pika-bundler-devops/)
 - [Snowpack with React by Ryan Lanciaux](http://ryanlanciaux.com/blog/2020/01/14/snowpack-with-react/)
 - [In 2020, go bundler free](https://medium.com/@dmnsgn/in-2020-go-bundler-free-eb29c1f05fc9)
+- [Discovering Snowpack](https://dev.to/aralroca/discovering-snowpack-29f3)
 
 
 ## Talks/Videos
