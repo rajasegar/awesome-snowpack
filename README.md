@@ -74,10 +74,10 @@ Snowpack is a post-install tool. It runs after npm install, and it essentially e
 - [snowpack-init](https://github.com/pikapkg/snowpack-init) - Create a bundler-free Snowpack app with a single command. 
 
 ## Podcasts
-- [Snowpack and Webpack](http://podrocket.logrocket.com/1) - PodRocket episode on Snowpack with FKS
-- [Snowpack the faster frontend build tool](https://devmode.fm/episodes/snowpack-the-faster-frontend-build-tool) - Snowpack episode with Drew Powers on devmode.fm
-- [Pika and Snowpack](https://thewebplatformpodcast.com/200-pika-and-snowpack) - The Web Platform podcast with FKS
-- [Snowpack and Pika](https://uitherapy.fm/episodes/3) - Snowpack at UI Therapy with FKS
+- [Snowpack and Webpack](http://podrocket.logrocket.com/1) - PodRocket episode on Snowpack with FKS.
+- [Snowpack the faster frontend build tool](https://devmode.fm/episodes/snowpack-the-faster-frontend-build-tool) - Snowpack episode with Drew Powers on devmode.fm.
+- [Pika and Snowpack](https://thewebplatformpodcast.com/200-pika-and-snowpack) - The Web Platform podcast with FKS.
+- [Snowpack and Pika](https://uitherapy.fm/episodes/3) - Snowpack at UI Therapy with FKS.
 
 ## Miscellaneous 
 
