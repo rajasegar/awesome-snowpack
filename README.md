@@ -69,6 +69,7 @@ Snowpack is a post-install tool. It runs after npm install, and it essentially e
 - React, JSX, Material-UI and super basic routing: [[Source]](https://github.com/jmetev1/snowpackJSXreact)
 - A basic svelte setup powered by svelvet: [[Source]](https://github.com/jakedeichert/svelvet)
 - React Component Library w/Storybook! (React, Typescript, Material-UI): [[Source]](https://github.com/snikas/React-Component-Library)
+- A Laravel Starter App Using Snowpack , TailwindCSS (JIT) , and Inertia Vue 3 - [[Source]](https://github.com/codeitlikemiley/laravel-snowpack-inertia-vue)
 
 ## Tooling
 - [snowpack-init](https://github.com/pikapkg/snowpack-init) - Create a bundler-free Snowpack app with a single command. 
